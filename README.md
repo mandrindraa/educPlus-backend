@@ -1,6 +1,6 @@
 # EducPlus Backend
 
-Backend API for **EduPlus**, an educational platform backend built with Go.
+Backend API for **EducPlus**, an educational platform backend built with Go.
 
 The application provides authentication, event management, email subscriptions, email notifications, and PostgreSQL persistence through GORM.
 
@@ -104,7 +104,7 @@ The application starts from `main.go`, which starts the HTTP server through the 
 
 ## Authentication
 
-EduPlus uses JWT tokens for authentication.
+EducPlus uses JWT tokens for authentication.
 
 After successful authentication, the backend generates:
 
