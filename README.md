@@ -1,4 +1,4 @@
-# EduPlus Backend
+# EducPlus Backend
 
 Backend API for **EduPlus**, an educational platform backend built with Go.
 
